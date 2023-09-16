@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Argento Natural",
+    "description": "Tabaco natural intensidad baja",
+    "image": "/images/argento-natural.jpeg",
+    "price": 1000,
+    "stock": 100,
+    "category": "tabaco-light"
+  },
+  {
+    "id": 2,
+    "name": "Argento Chocolate",
+    "description": "Tabaco sabor chocolate intensidad baja",
+    "image": "/images/argento-chocolate.jpeg",
+    "price": 1000,
+    "stock": 100,
+    "category": "tabaco-light"
+  },
+  {
+    "id": 3,
+    "name": "Argento Vainilla",
+    "description": "Tabaco saber vainilla intensidad baja",
+    "image": "/images/argento-vainilla.jpeg",
+    "price": 1500,
+    "stock": 200,
+    "category": "tabaco-light"
+  },
+  {
+    "id": 4,
+    "name": "Argento Menta",
+    "description": "Tabaco sabor menta intensidad media",
+    "image": "/images/argento-menta.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "tabaco-medium"
+  },
+  {
+    "id": 5,
+    "name": "Argento Uva",
+    "description": "Tabaco sabor uva intensidad media",
+    "image": "/images/argento-uva.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "tabaco-medium"
+  },
+  {
+    "id": 6,
+    "name": "Argento Manzana",
+    "description": "Tabaco sabor manzana intensidad media",
+    "image": "/images/argento-manzana.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "tabaco-strong"
+  },
+  {
+    "id": 7,
+    "name": "Argento Negro",
+    "description": "Tabaco negro intensidad alta",
+    "image": "/images/argento-negro.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "tabaco-strong"
+  },
+  {
+    "id": 8,
+    "name": "Argento Natural Negro",
+    "description": "Tabaco natural negro intensidad alta",
+    "image": "/images/argento-natural-fuerte.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "tabaco-strong"
+  },
+  {
+    "id": 9,
+    "name": "Papel Smoking Medio",
+    "description": "Papel smoking de grosor medio",
+    "image": "/images/papel-smoking.png",
+    "price": 500,
+    "stock": 300,
+    "category": "papel-smoking"
+  },
+  {
+    "id": 10,
+    "name": "Papel Libelula Fino",
+    "description": "Papel Libelula de grosor fino",
+    "image": "/images/papel-libelula.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "papel-libelula"
+  },
+  {
+    "id": 11,
+    "name": "Papel Libelula Medio",
+    "description": "Papel Libelula de grosor medio",
+    "image": "/images/papel-libelula-2.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "papel-libelula"
+  },
+  {
+    "id": 12,
+    "name": "Papel OCB",
+    "description": "Papel OCB de grosor fino",
+    "image": "/images/papel-ocb.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "papel-ocb"
+  },
+  {
+    "id": 13,
+    "name": "Papel OCB Medio",
+    "description": "Papel OCB de grosor medio",
+    "image": "/images/papel-ocb-2.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "papel-ocb"
+  },
+  {
+    "id": 14,
+    "name": "Papel Smoking Fino",
+    "description": "Papel Smoking de grosor fino",
+    "image": "/images/papel-smoking-2.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "papel-smoking"
+  },
+  {
+    "id": 15,
+    "name": "Pipa Curva",
+    "description": "Pipa curva para todo tipo de tabacos",
+    "image": "/images/pipa-curva.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "pipa-curva"
+  },
+  {
+    "id": 16,
+    "name": "Pipa Recta",
+    "description": "Pipa Recta para todo tipo de tabacos",
+    "image": "/images/pipa-recta.png",
+    "price": 500,
+    "stock": 300,
+    "category": "pipa-recta"
+  },
+  {
+    "id": 17,
+    "name": "Rolling de Cigarrillos",
+    "description": "Artefacto para armar cigarrillos",
+    "image": "/images/rolling-smoking.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "accesorios-rolling"
+  },
+  {
+    "id": 18,
+    "name": "Encendedor Zippo",
+    "description": "Encendedor Bola 8 Zippo",
+    "image": "/images/encendedor-zippo.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "accesorios-encendedor"
+  },
+    {
+    "id": 19,
+    "name": "Filtros Gizeh",
+    "description": "Filtros slim libelula",
+    "image": "/images/filtro-gizeh.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "filtro-gizeh"
+  },
+{
+    "id": 20,
+    "name": "Filtros OCB",
+    "description": "Filtros slim OCB",
+    "image": "/images/filtro-ocb.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "filtro-ocb"
+  },
+  {
+    "id": 21,
+    "name": "Filtros Smoking",
+    "description": "Filtros slim smoking",
+    "image": "/images/filtro-smoking.jpg",
+    "price": 500,
+    "stock": 300,
+    "category": "filtro-smoking"
+  }
+]
