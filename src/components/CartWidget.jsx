@@ -1,7 +1,13 @@
 import { FiShoppingCart } from "react-icons/fi";
 import { Stack, Highlight } from "@chakra-ui/react";
+import { CartContext } from '../context/ShoppingCartContext'
+import { useContext } from 'react';
+import { Link } from "react-router-dom";
 
 const CartWidget = () => {
+
+    const { calculateTotalAmount } = useContext(CartContext)
+
     return (
         <>
             <Stack
@@ -9,13 +15,15 @@ const CartWidget = () => {
                 justify={'flex-end'}
                 direction={'row'}
                 spacing={6}>
-                <div style={{ margin: "auto" }}>
-                    <FiShoppingCart size="24px" />
-                </div>
+                <Link to={`/cart`}>
+                    <div style={{ margin: "auto" }}>
+                        <FiShoppingCart size="24px" />
+                    </div>
+                </Link>
                 <Highlight
-                    query='5'
+                    query={calculateTotalAmount().toString()}
                     styles={{ px: '3', py: '1', rounded: 'full', bg: 'blue.200' }}>
-                    5
+                    {calculateTotalAmount().toString()}
                 </Highlight>
             </Stack>
         </>

@@ -13,7 +13,7 @@ Tecnologias:
 
 ## Descripción del Proyecto
 
-El proyecto tiene como objetivo crear una plataforma E-Commerce donde el usuario pueda explorar los productos por categorias, ver los detalles de cada producto y agregar al cart la cantidad que requiera.
+El proyecto tiene como objetivo crear una plataforma E-Commerce donde el usuario pueda explorar los productos por categorias, ver los detalles de cada producto,  agregar al cart la cantidad que requiera y realizar una compra.
 
 ![e-commerce](public/SmokingStore.gif)
 
@@ -26,3 +26,4 @@ Las siguientes rutas se encuentran configuradas en el proyecto:
 - `/`: Pagina inciio por el momentos solo muestra todos los productos
 - `/category/:category`: en cada link de la navbar se filtran los productos por la categoria seleccionada y se muestra la lista
 - `/item/:id`: En cada producto se puede acceder a un detalle donde luego se podra agregar al cart la cantidad de productos requerida.
+- `/cart`: Estadod e los items agregados al cart y realizar la compra de los productos
