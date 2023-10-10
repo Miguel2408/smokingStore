@@ -10,6 +10,8 @@ Tecnologias:
 [![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)]()
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)]()
+
 
 ## Descripción del Proyecto
 
@@ -18,6 +20,11 @@ El proyecto tiene como objetivo crear una plataforma E-Commerce donde el usuario
 ![e-commerce](public/SmokingStore.gif)
 
 ## Funcionalidades
+
+- Navegacion entre las categorias de productos
+- Vista de detalle de productos
+- Agregar productos al carrito
+- Realizar una orden con los productos en el carrito
 
 ### Rutas
 
